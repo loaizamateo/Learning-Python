@@ -26,3 +26,5 @@ nombre,agno,nacimiento=tupla_cuatro
 print(nombre)
 print(agno)
 print(nacimiento)
+
+print(nacimiento)
