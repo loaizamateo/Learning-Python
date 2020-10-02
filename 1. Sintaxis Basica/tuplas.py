@@ -1,3 +1,5 @@
+#--------------- UNA TUPLA ES INMUTABLE, Y NO PERMITE REPETIR VALORES -------------------
+
 mitupla=("Juan",21,1997)
 #Convertir una tupla en una lista
 milista=list(mitupla)
